@@ -238,7 +238,6 @@ Seasons season = new Seasons();
 
 
             }
-            Console.WriteLine($"the oldest person name is {persons7[indexOldest].name} with age = {persons7[indexOldest].age}");
 
 
 
